@@ -1,4 +1,4 @@
-# Machine Learning Specialization - 3 Course Series
+# Machine Learning Specialization
 
 ## Implementation Note
 
