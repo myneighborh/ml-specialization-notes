@@ -2,7 +2,7 @@
 
 ## Implementation Note
 
-All deep learning models originally implemented with **TensorFlow** are re-implemented here using **PyTorch**.
+All deep learning models originally implemented with TensorFlow have been re-implemented in this repository using PyTorch.
 
 ---
 
