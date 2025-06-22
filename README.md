@@ -4,7 +4,6 @@
 
 All deep learning models originally implemented with TensorFlow have been re-implemented in this repository using PyTorch.
 
----
 
 ## Courses Covered
 
