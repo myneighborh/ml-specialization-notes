@@ -1,7 +1,6 @@
 # Machine Learning Specialization
 
-This repository contains implementations of the *Machine Learning Specialization* by Stanford Online on Coursera.  
-The original courses use TensorFlow, but all deep learning models have been re-implemented in this repository using PyTorch.
+This repository contains re-implementations of the *Machine Learning Specialization* by DeepLearning.AI, Stanford University.
 
 ## Courses Followed
 
