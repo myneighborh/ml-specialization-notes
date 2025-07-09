@@ -19,3 +19,6 @@ The original courses use TensorFlow, but all deep learning models have been re-i
 - Use unsupervised learning techniques, including clustering and anomaly detection  
 - Build recommender systems using a collaborative filtering approach and a content-based recommendation method  
 - Build a deep reinforcement learning model
+
+## Certificate
+![image](https://github.com/user-attachments/assets/399aef94-946c-4974-ad6f-b26570b94cf2)
