@@ -1,3 +1,3 @@
 # Advanced Learning Algorithms
 ## Certificate
-![image](https://github.com/user-attachments/assets/adb73e99-ddaf-48ad-a982-9ef94bcc7e63)
+![image](https://github.com/user-attachments/assets/cf8d8389-377b-4e2a-b524-e2c5052dfcf0)
