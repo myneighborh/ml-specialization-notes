@@ -1,6 +1,6 @@
 # Machine Learning Specialization
 
-This repository contains re-implementations of the *Machine Learning Specialization* by DeepLearning.AI, Stanford University.
+This repository contains reimplementations of the *Machine Learning Specialization* by DeepLearning.AI, Stanford University.
 
 ## Courses Followed
 
